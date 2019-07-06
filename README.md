@@ -2,7 +2,7 @@
 ---
 https://github.com/parcel-bundler/parcel
 
-```
+```sh
 yarn global add parcel-bundler
 npm install -g parcel-bundler
 
@@ -72,5 +72,10 @@ import Apple from '/components/apple'
     "build": "parcel build <your entry file>"
       }
 }
+```
+
+```js
+// packages/core/parcel-bundler/test/
+
 ```
 
